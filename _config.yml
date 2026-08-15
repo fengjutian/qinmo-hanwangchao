@@ -1,0 +1,13 @@
+title: "我的文档"
+description: ""
+author: ""
+lang: "zh-CN"
+theme: minima
+baseurl: ""
+url: ""
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - .history
+  - .chapter-project.json
