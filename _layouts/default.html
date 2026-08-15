@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'zh-CN' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  {% feed_meta %}
+  <link rel="stylesheet" href="{{ '/assets/css/reader.css' | relative_url }}">
+</head>
+<body>
+  <header class="mobile-header"><a href="{{ '/' | relative_url }}">{{ site.title }}</a><button onclick="document.body.classList.toggle('nav-open')" aria-label="切换目录">目录</button></header>
+  <div class="book-shell">
+    <aside class="book-nav">
+      <a class="brand" href="{{ '/' | relative_url }}"><span class="brand-mark">阅</span><span><strong>{{ site.title }}</strong><small>{{ site.description }}</small></span></a>
+      <nav><div class="nav-label">章节目录</div><ol>{% assign chapters = site.pages | where: 'chapter', true | sort: 'order' %}{% for chapter in chapters %}<li><a href="{{ chapter.url | relative_url }}" {% if page.url == chapter.url %}class="active"{% endif %}><span>{{ chapter.order | prepend: '0' | slice: -2, 2 }}</span>{{ chapter.title }}</a></li>{% endfor %}</ol></nav>
+      <footer>{{ site.author }} · {{ 'now' | date: '%Y' }}</footer>
+    </aside>
+    <main class="book-main">{{ content }}</main>
+  </div>
+</body>
+</html>
