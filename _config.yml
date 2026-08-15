@@ -1,9 +1,9 @@
 title: "我的文档"
-description: ""
-author: ""
+description: "我的文档在线阅读"
+author: "作者"
 lang: "zh-CN"
 theme: minima
-baseurl: ""
+baseurl: "/qinmo-hanwangchao"
 url: ""
 plugins:
   - jekyll-feed
