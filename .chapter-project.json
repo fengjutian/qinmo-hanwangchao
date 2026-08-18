@@ -446,10 +446,9 @@
     }
   },
   "deploymentStatus": {
-    "state": "published",
-    "url": "https://fengjutian.github.io/qinmo-hanwangchao/",
-    "message": "origin/main 已推送",
-    "updatedAt": 1787015167235
+    "state": "configured",
+    "message": "Pages 配置已生成，等待提交和部署",
+    "updatedAt": 1787015730465
   },
   "splitMode": "chapter",
   "organizeByPart": true,
@@ -482,10 +481,7 @@
     "25-第二十五章　刘邦的政治遗产.md",
     "26-第二十六章　秦亡汉兴的历史逻辑.md",
     "27-第二十七章　从秦帝国到汉帝国.md",
-    "28-第二十八章　秦末起义与汉朝建立的历史影响.md",
-    "404.md",
-    "index.md",
-    "README.md"
+    "28-第二十八章　秦末起义与汉朝建立的历史影响.md"
   ],
   "git": {
     "remoteUrl": "https://github.com/fengjutian/qinmo-hanwangchao.git",
@@ -501,5 +497,5 @@
     "customDomain": "",
     "accentColor": "#6d285f"
   },
-  "updatedAt": 1787015577178
+  "updatedAt": 1787015731780
 }

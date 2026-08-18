@@ -11,11 +11,13 @@
   <header class="mobile-header"><a href="{{ '/' | relative_url }}">{{ site.title }}</a><button onclick="document.body.classList.toggle('nav-open')" aria-label="切换目录">目录</button></header>
   <div class="book-shell">
     <aside class="book-nav">
-      <a class="brand" href="{{ '/' | relative_url }}"><span class="brand-mark">阅</span><span><strong>{{ site.title }}</strong><small>{{ site.description }}</small></span></a>
-      <nav><div class="nav-label">章节目录</div><ol>{% assign chapters = site.pages | where: 'chapter', true | sort: 'order' %}{% for chapter in chapters %}<li><a href="{{ chapter.url | relative_url }}" {% if page.url == chapter.url %}class="active"{% endif %}><span>{{ chapter.order | prepend: '0' | slice: -2, 2 }}</span>{{ chapter.title }}</a></li>{% endfor %}</ol></nav>
+      <button class="nav-toggle" onclick="toggleBookNav()" title="折叠或展开章节目录" aria-label="折叠或展开章节目录">‹</button>
+      <a class="brand" href="{{ '/' | relative_url }}"><span class="brand-mark">阅</span><span class="brand-copy"><strong>{{ site.title }}</strong><small>{{ site.description }}</small></span></a>
+      <nav><div class="nav-label">章节目录</div><ol>{% assign chapters = site.data.chapters | sort: 'order' %}{% for chapter in chapters %}<li><a href="{{ chapter.url | relative_url }}"><span>{{ chapter.order | prepend: '0' | slice: -2, 2 }}</span><b>{{ chapter.title }}</b></a></li>{% endfor %}</ol></nav>
       <footer>{{ site.author }} · {{ 'now' | date: '%Y' }}</footer>
     </aside>
     <main class="book-main">{{ content }}</main>
   </div>
+  <script>const navKey='book-nav-collapsed';if(localStorage.getItem(navKey)==='1')document.body.classList.add('nav-collapsed');function toggleBookNav(){document.body.classList.toggle('nav-collapsed');localStorage.setItem(navKey,document.body.classList.contains('nav-collapsed')?'1':'0')}</script>
 </body>
 </html>
