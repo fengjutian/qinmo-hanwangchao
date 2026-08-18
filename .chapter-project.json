@@ -7,119 +7,119 @@
   "chapterBriefs": {},
   "chapterStatuses": {
     "01-第一章　统一天下的秦帝国.md": {
-      "state": "complete",
-      "updatedAt": 1786979929532
+      "state": "revising",
+      "updatedAt": 1787012467907
     },
     "02-第二章　强秦之下的天下.md": {
       "state": "quality",
       "error": "仍有待核实事实",
-      "updatedAt": 1786979929533
+      "updatedAt": 1787012450280
     },
     "03-第三章　秦始皇之死与帝国危机.md": {
       "state": "complete",
-      "updatedAt": 1786979929534
+      "updatedAt": 1787012450280
     },
     "04-第四章　大泽乡起义.md": {
       "state": "complete",
-      "updatedAt": 1786979929535
+      "updatedAt": 1787012450281
     },
     "05-第五章　陈胜建立张楚.md": {
       "state": "complete",
-      "updatedAt": 1786979929535
+      "updatedAt": 1787012450282
     },
     "06-第六章　六国复国.md": {
       "state": "complete",
-      "updatedAt": 1786979929536
+      "updatedAt": 1787012450282
     },
     "07-第七章　项氏家族.md": {
       "state": "complete",
-      "updatedAt": 1786979929536
+      "updatedAt": 1787012450283
     },
     "08-第八章　刘邦其人.md": {
       "state": "complete",
-      "updatedAt": 1786979929537
+      "updatedAt": 1787012450284
     },
     "09-第九章　巨鹿之战.md": {
       "state": "complete",
-      "updatedAt": 1786979929538
+      "updatedAt": 1787012450285
     },
     "10-第十章　章邯与项羽.md": {
       "state": "complete",
-      "updatedAt": 1786979929538
+      "updatedAt": 1787012450285
     },
     "11-第十一章　子婴与秦王朝.md": {
       "state": "complete",
-      "updatedAt": 1786979929539
+      "updatedAt": 1787012450286
     },
     "12-第十二章　鸿门宴.md": {
       "state": "complete",
-      "updatedAt": 1786979929539
+      "updatedAt": 1787012450286
     },
     "13-第十三章　西楚霸王.md": {
       "state": "complete",
-      "updatedAt": 1786979929540
+      "updatedAt": 1787012450287
     },
     "14-第十四章　彭城之战.md": {
       "state": "complete",
-      "updatedAt": 1786979929540
+      "updatedAt": 1787012450287
     },
     "15-第十五章　荥阳与成皋.md": {
       "state": "quality",
       "error": "正文仅 1538 字，未达到目标字数的 70%",
-      "updatedAt": 1786979929541
+      "updatedAt": 1787012450288
     },
     "16-第十六章　韩信崛起.md": {
       "state": "complete",
-      "updatedAt": 1786979929541
+      "updatedAt": 1787012450288
     },
     "17-第十七章　韩信北伐.md": {
       "state": "complete",
-      "updatedAt": 1786979929542
+      "updatedAt": 1787012450289
     },
     "18-第十八章　齐国与潍水.md": {
       "state": "complete",
-      "updatedAt": 1786979929542
+      "updatedAt": 1787012450289
     },
     "19-第十九章　垓下之前.md": {
       "state": "complete",
-      "updatedAt": 1786979929542
+      "updatedAt": 1787012450289
     },
     "20-第二十章　鸿沟之盟.md": {
       "state": "complete",
-      "updatedAt": 1786979929543
+      "updatedAt": 1787012450290
     },
     "21-第二十一章　垓下之战.md": {
       "state": "complete",
-      "updatedAt": 1786979929543
+      "updatedAt": 1787012450290
     },
     "22-第二十二章　刘邦称帝.md": {
       "state": "complete",
-      "updatedAt": 1786979929544
+      "updatedAt": 1787012450291
     },
     "23-第二十三章　汉初制度.md": {
       "state": "complete",
-      "updatedAt": 1786979929544
+      "updatedAt": 1787012450291
     },
     "24-第二十四章　异姓诸侯王.md": {
       "state": "complete",
-      "updatedAt": 1786979929545
+      "updatedAt": 1787012450292
     },
     "25-第二十五章　刘邦的政治遗产.md": {
       "state": "complete",
-      "updatedAt": 1786979929545
+      "updatedAt": 1787012450292
     },
     "26-第二十六章　秦亡汉兴的历史逻辑.md": {
       "state": "complete",
-      "updatedAt": 1786979929546
+      "updatedAt": 1787012450292
     },
     "27-第二十七章　从秦帝国到汉帝国.md": {
       "state": "complete",
-      "updatedAt": 1786979929546
+      "updatedAt": 1787012450293
     },
     "28-第二十八章　秦末起义与汉朝建立的历史影响.md": {
       "state": "quality",
       "error": "正文仅 1673 字，未达到目标字数的 70%",
-      "updatedAt": 1786979929547
+      "updatedAt": 1787012450293
     },
     "404.md": {
       "state": "review",
@@ -143,7 +143,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 3883,
-      "checkedAt": 1786979929532
+      "checkedAt": 1787012450278
     },
     "02-第二章　强秦之下的天下.md": {
       "score": 67,
@@ -154,7 +154,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 4826,
-      "checkedAt": 1786979946018
+      "checkedAt": 1787012450280
     },
     "03-第三章　秦始皇之死与帝国危机.md": {
       "score": 92,
@@ -163,7 +163,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 3764,
-      "checkedAt": 1786979929534
+      "checkedAt": 1787012450280
     },
     "04-第四章　大泽乡起义.md": {
       "score": 84,
@@ -173,7 +173,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 2276,
-      "checkedAt": 1786979929535
+      "checkedAt": 1787012450281
     },
     "05-第五章　陈胜建立张楚.md": {
       "score": 84,
@@ -183,7 +183,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 3821,
-      "checkedAt": 1786979929535
+      "checkedAt": 1787012450282
     },
     "06-第六章　六国复国.md": {
       "score": 84,
@@ -193,7 +193,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 1768,
-      "checkedAt": 1786979929536
+      "checkedAt": 1787012450282
     },
     "07-第七章　项氏家族.md": {
       "score": 84,
@@ -203,7 +203,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 2335,
-      "checkedAt": 1786979929536
+      "checkedAt": 1787012450283
     },
     "08-第八章　刘邦其人.md": {
       "score": 76,
@@ -214,7 +214,7 @@
         "缺少二级标题，长文可读性较弱"
       ],
       "wordCount": 1967,
-      "checkedAt": 1786979929537
+      "checkedAt": 1787012450284
     },
     "09-第九章　巨鹿之战.md": {
       "score": 84,
@@ -224,7 +224,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 1860,
-      "checkedAt": 1786979929538
+      "checkedAt": 1787012450285
     },
     "10-第十章　章邯与项羽.md": {
       "score": 84,
@@ -234,7 +234,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 2320,
-      "checkedAt": 1786979929538
+      "checkedAt": 1787012450285
     },
     "11-第十一章　子婴与秦王朝.md": {
       "score": 84,
@@ -244,7 +244,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 2302,
-      "checkedAt": 1786979929539
+      "checkedAt": 1787012450286
     },
     "12-第十二章　鸿门宴.md": {
       "score": 76,
@@ -255,7 +255,7 @@
         "缺少二级标题，长文可读性较弱"
       ],
       "wordCount": 1783,
-      "checkedAt": 1786979929539
+      "checkedAt": 1787012450286
     },
     "13-第十三章　西楚霸王.md": {
       "score": 84,
@@ -265,7 +265,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 2333,
-      "checkedAt": 1786979929540
+      "checkedAt": 1787012450287
     },
     "14-第十四章　彭城之战.md": {
       "score": 84,
@@ -275,7 +275,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 1936,
-      "checkedAt": 1786979929540
+      "checkedAt": 1787012450287
     },
     "15-第十五章　荥阳与成皋.md": {
       "score": 51,
@@ -288,7 +288,7 @@
         "缺少二级标题，长文可读性较弱"
       ],
       "wordCount": 1538,
-      "checkedAt": 1786979929541
+      "checkedAt": 1787012450288
     },
     "16-第十六章　韩信崛起.md": {
       "score": 76,
@@ -299,7 +299,7 @@
         "缺少二级标题，长文可读性较弱"
       ],
       "wordCount": 2286,
-      "checkedAt": 1786979929541
+      "checkedAt": 1787012450288
     },
     "17-第十七章　韩信北伐.md": {
       "score": 84,
@@ -309,7 +309,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 2670,
-      "checkedAt": 1786979929542
+      "checkedAt": 1787012450289
     },
     "18-第十八章　齐国与潍水.md": {
       "score": 84,
@@ -319,7 +319,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 1879,
-      "checkedAt": 1786979929542
+      "checkedAt": 1787012450289
     },
     "19-第十九章　垓下之前.md": {
       "score": 76,
@@ -330,7 +330,7 @@
         "缺少二级标题，长文可读性较弱"
       ],
       "wordCount": 1928,
-      "checkedAt": 1786979929542
+      "checkedAt": 1787012450289
     },
     "20-第二十章　鸿沟之盟.md": {
       "score": 84,
@@ -340,7 +340,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 1755,
-      "checkedAt": 1786979929543
+      "checkedAt": 1787012450290
     },
     "21-第二十一章　垓下之战.md": {
       "score": 84,
@@ -350,7 +350,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 1999,
-      "checkedAt": 1786979929543
+      "checkedAt": 1787012450290
     },
     "22-第二十二章　刘邦称帝.md": {
       "score": 84,
@@ -360,7 +360,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 1902,
-      "checkedAt": 1786979929544
+      "checkedAt": 1787012450291
     },
     "23-第二十三章　汉初制度.md": {
       "score": 84,
@@ -370,7 +370,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 2124,
-      "checkedAt": 1786979929544
+      "checkedAt": 1787012450291
     },
     "24-第二十四章　异姓诸侯王.md": {
       "score": 76,
@@ -381,7 +381,7 @@
         "缺少二级标题，长文可读性较弱"
       ],
       "wordCount": 1816,
-      "checkedAt": 1786979929545
+      "checkedAt": 1787012450292
     },
     "25-第二十五章　刘邦的政治遗产.md": {
       "score": 84,
@@ -391,7 +391,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 2218,
-      "checkedAt": 1786979929545
+      "checkedAt": 1787012450292
     },
     "26-第二十六章　秦亡汉兴的历史逻辑.md": {
       "score": 76,
@@ -402,7 +402,7 @@
         "缺少二级标题，长文可读性较弱"
       ],
       "wordCount": 1979,
-      "checkedAt": 1786979929546
+      "checkedAt": 1787012450292
     },
     "27-第二十七章　从秦帝国到汉帝国.md": {
       "score": 76,
@@ -413,7 +413,7 @@
         "缺少二级标题，长文可读性较弱"
       ],
       "wordCount": 1945,
-      "checkedAt": 1786979929546
+      "checkedAt": 1787012450293
     },
     "28-第二十八章　秦末起义与汉朝建立的历史影响.md": {
       "score": 59,
@@ -425,7 +425,7 @@
         "没有已核实的证据记录"
       ],
       "wordCount": 1673,
-      "checkedAt": 1786979929547
+      "checkedAt": 1787012450293
     },
     "404.md": {
       "score": 51,
@@ -509,5 +509,5 @@
     "customDomain": "",
     "accentColor": "#6d285f"
   },
-  "updatedAt": 1787011851033
+  "updatedAt": 1787012656683
 }
