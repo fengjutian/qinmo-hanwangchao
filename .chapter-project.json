@@ -481,7 +481,10 @@
     "25-第二十五章　刘邦的政治遗产.md",
     "26-第二十六章　秦亡汉兴的历史逻辑.md",
     "27-第二十七章　从秦帝国到汉帝国.md",
-    "28-第二十八章　秦末起义与汉朝建立的历史影响.md"
+    "28-第二十八章　秦末起义与汉朝建立的历史影响.md",
+    "404.md",
+    "index.md",
+    "README.md"
   ],
   "git": {
     "remoteUrl": "https://github.com/fengjutian/qinmo-hanwangchao.git",
@@ -497,5 +500,5 @@
     "customDomain": "",
     "accentColor": "#6d285f"
   },
-  "updatedAt": 1787016124158
+  "updatedAt": 1787043705859
 }
