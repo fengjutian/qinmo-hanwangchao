@@ -132,35 +132,6 @@
   "knowledgeEntries": [],
   "evidenceRecords": [],
   "qualityReports": {
-    "03-第三章　秦始皇之死与帝国危机.md": {
-      "score": 92,
-      "blockers": [],
-      "warnings": [
-        "没有已核实的证据记录"
-      ],
-      "wordCount": 3764,
-      "checkedAt": 1787043981540
-    },
-    "04-第四章　大泽乡起义.md": {
-      "score": 84,
-      "blockers": [],
-      "warnings": [
-        "没有文末参考资料区",
-        "没有已核实的证据记录"
-      ],
-      "wordCount": 2276,
-      "checkedAt": 1787043981541
-    },
-    "05-第五章　陈胜建立张楚.md": {
-      "score": 84,
-      "blockers": [],
-      "warnings": [
-        "没有文末参考资料区",
-        "没有已核实的证据记录"
-      ],
-      "wordCount": 3821,
-      "checkedAt": 1787043981542
-    },
     "06-第六章　六国复国.md": {
       "score": 84,
       "blockers": [],
@@ -490,5 +461,5 @@
     "customDomain": "",
     "accentColor": "#6d285f"
   },
-  "updatedAt": 1787045322694
+  "updatedAt": 1787046183998
 }
