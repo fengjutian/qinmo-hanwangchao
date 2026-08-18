@@ -447,8 +447,9 @@
   },
   "deploymentStatus": {
     "state": "published",
-    "updatedAt": 1786780998000,
-    "message": "GitHub Pages 构建成功 · main"
+    "url": "https://fengjutian.github.io/qinmo-hanwangchao/",
+    "message": "origin/main 已推送",
+    "updatedAt": 1787014607973
   },
   "splitMode": "chapter",
   "organizeByPart": true,
@@ -500,5 +501,5 @@
     "customDomain": "",
     "accentColor": "#6d285f"
   },
-  "updatedAt": 1787014602625
+  "updatedAt": 1787014609301
 }
